@@ -7,14 +7,14 @@ from random import randint
 os.system('cls' if os.name == 'nt' else 'clear')
 
 symbols = {
-    "a": "4",
-    "d": "d",
-    "e": "3",
-    "g": "6",
-    "i": "1",
-    "o": "0",
-    "s": "5",
-    "t": "7",
+    'a': '4',
+    'd': 'd',
+    'e': '3',
+    'g': '6',
+    'i': '1',
+    'o': '0',
+    's': '5',
+    't': '7',
 }
 
 print('''
