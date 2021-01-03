@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
+import os
 from random import randint
 
+
+os.system('cls' if os.name == 'nt' else 'clear')
 
 symbols = {
     "a": "4",
